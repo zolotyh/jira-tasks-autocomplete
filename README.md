@@ -20,4 +20,5 @@ npm install -g jira-autocomplete-server
 
 ```
 
+[demo](https://terminalizer.com/view/051915693786)
 
